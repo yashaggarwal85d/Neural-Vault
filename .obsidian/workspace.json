@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "de582e193acbede8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08b368c5ef6c484",
+        "type": "tabs",
+        "dimension": 45.90301003344482,
+        "children": [
+          {
+            "id": "1aa12afa9e58aec0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "62b2bcee7ef0b2ba",
+        "type": "tabs",
+        "dimension": 54.096989966555185,
+        "children": [
+          {
+            "id": "03bc345293c11190",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ee19ce162ef4542",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ceb7c094baa030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dada428dfbba8d71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9df911b95f41c3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7c93ddb3441b1ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0ac62347d4815028",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d54de0baae844d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd692d614e65d7de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "725d37750d982ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4f0cdfcab989fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a744d92bf31bc3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dada428dfbba8d71",
+  "lastOpenFiles": [
+    "Misc",
+    "Youtube",
+    "Books",
+    "Untitled.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "create a link.md",
+    "Untitled 1.canvas"
+  ]
+}
