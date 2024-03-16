@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-snippets"
+  ],
+  "cssTheme": "Tokyo Night",
+  "translucency": true,
+  "baseFontSizeAction": true
 }

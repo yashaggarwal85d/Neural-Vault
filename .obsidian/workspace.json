@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f08b368c5ef6c484",
+        "id": "9fc4f42bd5dc46b9",
         "type": "tabs",
-        "dimension": 45.90301003344482,
         "children": [
           {
-            "id": "1aa12afa9e58aec0",
+            "id": "41cfd9d83a347445",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Secret/Science behind law of attraction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
-      },
-      {
-        "id": "62b2bcee7ef0b2ba",
-        "type": "tabs",
-        "dimension": 54.096989966555185,
-        "children": [
-          {
-            "id": "03bc345293c11190",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -50,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -97,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/The Secret/Science behind law of attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/The Secret/Science behind law of attraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/The Secret/Science behind law of attraction.md"
+              }
             }
           }
         ]
@@ -149,19 +143,42 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templates:Insert template": true,
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "dada428dfbba8d71",
+  "active": "41cfd9d83a347445",
   "lastOpenFiles": [
+    "Books/The Secret/The Secret.canvas",
+    "Books/The Secret/Science behind law of attraction.md",
+    "Books/The Secret/The Law of attraction.md",
+    "Books/The Secret/Beginner steps to law of attraction.md",
+    "Books/The Secret/What you resist persist.md",
+    "Books/The Secret/Giving is having.md",
+    "Books/The Secret/Feelings are thoughts.md",
+    "Books/The Secret/Thought before sleep.md",
+    "Books/The Secret/Affirmative thoughts vs negative thoughts.md",
+    "Books/The Secret/Gratitude.md",
+    "Books/The Secret/Actions should reflect the thinking.md",
+    "Templates/Atomic note template.md",
+    "Templates/Star doc template.md",
+    "Books/The Secret",
+    "Misc/Star document/Supply Chain Blockchain.md",
+    "Misc/Star document/Kubeflow.md",
+    "Misc/Star document/Tech ladder application 1.md",
+    "Misc/Star document/asdas.md",
+    "Misc/Star document/Target Generation.md",
+    "Misc/Star document/DM and IO.md",
+    "Misc/Star document/Reporting Automation.md",
+    "Misc/Star document/RP Simulation.md",
+    "Misc/Star document/Bank data maintenance.md",
+    "Templates",
+    "Misc/Star document",
     "Misc",
     "Youtube",
     "Books",
-    "Untitled.md",
     "Welcome.md",
-    "Untitled.canvas",
     "create a link.md",
     "Untitled 1.canvas"
   ]
