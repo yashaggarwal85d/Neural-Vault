@@ -4,6 +4,7 @@ Reference:
 Created: 2024-03-16
 tags:
   - law_of_attraction
+  - philosophy
 ---
 # Idea
 

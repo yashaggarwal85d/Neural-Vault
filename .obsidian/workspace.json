@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/The Secret/Science behind law of attraction.md",
+                "file": "Books/The courage to be disliked/Why do we hate ourselves.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Secret/Science behind law of attraction.md",
+                "file": "Books/The courage to be disliked/Why do we hate ourselves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Secret/Science behind law of attraction.md",
+                "file": "Books/The courage to be disliked/Why do we hate ourselves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Secret/Science behind law of attraction.md"
+                "file": "Books/The courage to be disliked/Why do we hate ourselves.md"
               }
             }
           }
@@ -150,19 +150,24 @@
   },
   "active": "41cfd9d83a347445",
   "lastOpenFiles": [
+    "Books/The courage to be disliked/Aetiology vs Teleology.md",
+    "Books/The courage to be disliked/Why do we hate ourselves.md",
+    "Books/The courage to be disliked/Emotions are fabricated.md",
+    "Untitled.md",
     "Books/The Secret/The Secret.canvas",
-    "Books/The Secret/Science behind law of attraction.md",
-    "Books/The Secret/The Law of attraction.md",
     "Books/The Secret/Beginner steps to law of attraction.md",
     "Books/The Secret/What you resist persist.md",
     "Books/The Secret/Giving is having.md",
-    "Books/The Secret/Feelings are thoughts.md",
-    "Books/The Secret/Thought before sleep.md",
-    "Books/The Secret/Affirmative thoughts vs negative thoughts.md",
-    "Books/The Secret/Gratitude.md",
     "Books/The Secret/Actions should reflect the thinking.md",
+    "Books/The Secret/Gratitude.md",
+    "Books/The Secret/Affirmative thoughts vs negative thoughts.md",
+    "Books/The Secret/Feelings are thoughts.md",
+    "Books/The Secret/The Law of attraction.md",
+    "Books/The Secret/Thought before sleep.md",
+    "Books/The Secret/Science behind law of attraction.md",
     "Templates/Atomic note template.md",
-    "Templates/Star doc template.md",
+    "Templates/PEARL doc template.md",
+    "Books/The courage to be disliked",
     "Books/The Secret",
     "Misc/Star document/Supply Chain Blockchain.md",
     "Misc/Star document/Kubeflow.md",
@@ -179,7 +184,6 @@
     "Youtube",
     "Books",
     "Welcome.md",
-    "create a link.md",
     "Untitled 1.canvas"
   ]
 }

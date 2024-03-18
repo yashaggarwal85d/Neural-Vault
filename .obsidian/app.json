@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "showInlineTitle": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "alwaysUpdateLinks": true
 }

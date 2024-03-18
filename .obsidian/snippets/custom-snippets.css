@@ -1,9 +1,4 @@
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1 {
     background: #92C7CF;
     background: radial-gradient(circle, #92C7CF 0%, #AAD7D9 53%, #FBF9F1 100%);
     -webkit-background-clip: text;

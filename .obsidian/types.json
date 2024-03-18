@@ -5,6 +5,7 @@
     "tags": "tags",
     "Similar": "date",
     "Created": "date",
-    "Reference": "multitext"
+    "Reference": "multitext",
+    "Working": "multitext"
   }
 }
