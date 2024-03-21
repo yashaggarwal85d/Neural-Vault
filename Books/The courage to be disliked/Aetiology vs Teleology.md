@@ -33,6 +33,7 @@ So for rooting out any problem think in terms of teleology rather than Aetiology
 		* You are creating anxiety and fear as the reasons to stay inside
 		* Maybe you think that by doing this my parents will worry about me and I will become their centre of attention.
 	* The past experience has forces us to set this goal, as long as we stay in the past(Aetiology) the future is not gonna change. The only way to change is to construct a new goal of **I want to make meaningful connections with people**
+	* It is impossible to not get hurt in relationships with other people, but you need to choose if the relationship is worth the pain or not.
 
 A more simpler example can be
 * Suppose you go to a doctor because you have a high fever and cold.

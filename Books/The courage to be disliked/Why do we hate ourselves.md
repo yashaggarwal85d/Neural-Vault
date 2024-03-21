@@ -18,6 +18,10 @@ There are only 3 reasons why a person hates himself -
 	1. Either accept that as a mistake and forgive yourself as you are just another human being, you are not perfect, no one is.
 	2. Or Atone for that
 3. Habits
-	1. Love the things that you like about yourself
-	2. Change the things that you hate about yourself.
+	1. You only see the shortcomings because you made a goal of not liking yourself.
+	2. Love the things that you like about yourself
+	3. Change the things that you hate about yourself.
 
+# Similars
+
+[[People always choose not to change]]

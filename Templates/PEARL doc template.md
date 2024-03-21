@@ -4,6 +4,7 @@ tags:
   - raw
 Working:
   - Texas Instruments
+Previous Work:
 ---
 # Problem
 
@@ -26,3 +27,6 @@ Working:
 
 
 # Learning
+
+
+
