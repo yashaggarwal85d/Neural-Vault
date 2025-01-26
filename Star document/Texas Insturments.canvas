@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"38a1fb1a21191ca1","type":"text","text":"Software developer at Texas Instruments","x":-60,"y":-480,"width":240,"height":80,"color":"5"},
+		{"id":"b383db520f213ba2","type":"file","file":"Star document/RP Simulation.md","x":-340,"y":-200,"width":240,"height":60,"color":"4"},
+		{"id":"5a85a88401b9052e","type":"file","file":"Star document/Reporting Automation.md","x":-79,"y":-20,"width":360,"height":60,"color":"4"},
+		{"id":"5210d1e40d143f04","type":"file","file":"Star document/DM-IO.md","x":-290,"y":160,"width":140,"height":50,"color":"1"},
+		{"id":"8051095281ddbd4d","type":"file","file":"Star document/DevOps in demand management.md","x":-289,"y":680,"width":480,"height":50,"color":"4"},
+		{"id":"3f5b3e7530e45de7","type":"file","file":"Star document/Program management.md","x":400,"y":-20,"width":360,"height":50,"color":"2"},
+		{"id":"95893fa1e9b0583c","type":"file","file":"Star document/Generic Simulation.md","x":-199,"y":400,"width":300,"height":50,"color":"3"},
+		{"id":"c1f38f5520ac095e","type":"file","file":"Star document/Fabric.md","x":281,"y":680,"width":139,"height":50,"color":"3"},
+		{"id":"d8b196525efb0ba7","type":"text","text":"Ongoing Project","x":-560,"y":675,"width":170,"height":60},
+		{"id":"0cd283ccfb294338","x":-660,"y":-470,"width":250,"height":60,"color":"5","type":"text","text":"6 months intern at Texas Instruments"},
+		{"id":"b7c514df25919f06","x":-730,"y":-320,"width":390,"height":50,"color":"4","type":"file","file":"Star document/Tech ladder application.md"}
+	],
+	"edges":[
+		{"id":"2ff0696c03cf4d8c","fromNode":"b383db520f213ba2","fromSide":"bottom","toNode":"5210d1e40d143f04","toSide":"top"},
+		{"id":"f70373ff32878f70","fromNode":"5210d1e40d143f04","fromSide":"bottom","toNode":"95893fa1e9b0583c","toSide":"top"},
+		{"id":"1729e5c613e185d4","fromNode":"5a85a88401b9052e","fromSide":"bottom","toNode":"95893fa1e9b0583c","toSide":"top"},
+		{"id":"657dcaca68b6d5e6","fromNode":"95893fa1e9b0583c","fromSide":"bottom","toNode":"8051095281ddbd4d","toSide":"top"},
+		{"id":"cf0339559ff731c6","fromNode":"38a1fb1a21191ca1","fromSide":"bottom","toNode":"b383db520f213ba2","toSide":"top","label":"First project"},
+		{"id":"7f37c61fb4089a02","fromNode":"b383db520f213ba2","fromSide":"right","toNode":"5a85a88401b9052e","toSide":"top","label":"Self made project"},
+		{"id":"98128eeddb0627ad","fromNode":"38a1fb1a21191ca1","fromSide":"right","toNode":"3f5b3e7530e45de7","toSide":"top","label":"20% bandwidth"},
+		{"id":"ed17f1913c6d3fc8","fromNode":"3f5b3e7530e45de7","fromSide":"bottom","toNode":"95893fa1e9b0583c","toSide":"top","label":"Had to pause Program management for the new project"},
+		{"id":"2fdbd65d63eb0d8c","fromNode":"95893fa1e9b0583c","fromSide":"bottom","toNode":"c1f38f5520ac095e","toSide":"top"},
+		{"id":"c255d85102791f5e","fromNode":"d8b196525efb0ba7","fromSide":"right","toNode":"8051095281ddbd4d","toSide":"left"},
+		{"id":"59319a7451c0d5c8","fromNode":"0cd283ccfb294338","fromSide":"right","toNode":"38a1fb1a21191ca1","toSide":"left"},
+		{"id":"9dd5d2134482fa2c","fromNode":"0cd283ccfb294338","fromSide":"bottom","toNode":"b7c514df25919f06","toSide":"top"}
+	]
+}

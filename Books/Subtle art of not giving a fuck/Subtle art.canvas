@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"2d73c3e9ac930863","type":"text","text":"![book](https://m.media-amazon.com/images/I/71t4GuxLCuL._AC_UF1000,1000_QL80_.jpg)","x":-60,"y":-740,"width":240,"height":340},
+		{"id":"7460c5691a00dc0f","type":"file","file":"Books/Subtle art of not giving a fuck/Why you should not give a fuck.md","x":-180,"y":-320,"width":480,"height":50},
+		{"id":"51f3568c5f6a8cb0","type":"file","file":"Books/Subtle art of not giving a fuck/Why we suffer.md","x":-523,"y":-177,"width":280,"height":50,"color":"2"},
+		{"id":"b61cdc1737f07bef","x":-185,"y":-180,"width":365,"height":56,"color":"2","type":"file","file":"Books/Subtle art of not giving a fuck/Happiness is a problem.md"},
+		{"id":"56dc8f210a67d841","x":217,"y":-177,"width":372,"height":50,"color":"2","type":"file","file":"Books/Subtle art of not giving a fuck/Emotions are overrated.md"},
+		{"id":"cf25e42dd21ad643","x":94,"y":-58,"width":247,"height":50,"color":"4","type":"file","file":"Books/Subtle art of not giving a fuck/Self esteem.md"},
+		{"id":"7a74904f1edd3731","x":-313,"y":-60,"width":319,"height":55,"color":"4","type":"file","file":"Books/Subtle art of not giving a fuck/You are not special.md"},
+		{"id":"8491f7ff5a4df4c3","x":-14,"y":60,"width":149,"height":52,"color":"3","type":"file","file":"Books/Subtle art of not giving a fuck/Values.md"},
+		{"id":"891d76d887376893","x":104,"y":180,"width":291,"height":50,"color":"1","type":"file","file":"Books/Subtle art of not giving a fuck/We are in control.md"},
+		{"id":"11ead4acaab83420","x":-282,"y":180,"width":342,"height":50,"color":"1","type":"file","file":"Books/Subtle art of not giving a fuck/Fault vs responsibility.md"},
+		{"id":"74e6f73629a5caae","x":-131,"y":320,"width":167,"height":50,"color":"6","type":"file","file":"Books/Subtle art of not giving a fuck/Growth.md"},
+		{"id":"76499ab38e5171e8","x":104,"y":320,"width":250,"height":50,"color":"6","type":"file","file":"Books/Subtle art of not giving a fuck/You are wrong.md"},
+		{"id":"eb7cb78b8664c5c5","x":-111,"y":440,"width":345,"height":50,"color":"5","type":"file","file":"Books/Subtle art of not giving a fuck/Failure and rejection.md"}
+	],
+	"edges":[
+		{"id":"af6c758979bfa290","fromNode":"2d73c3e9ac930863","fromSide":"bottom","toNode":"7460c5691a00dc0f","toSide":"top"},
+		{"id":"8991e9108d34a0ad","fromNode":"51f3568c5f6a8cb0","fromSide":"right","toNode":"b61cdc1737f07bef","toSide":"left"},
+		{"id":"9024c6199f6fa29b","fromNode":"b61cdc1737f07bef","fromSide":"right","toNode":"56dc8f210a67d841","toSide":"left"},
+		{"id":"9ed164444054a718","fromNode":"56dc8f210a67d841","fromSide":"right","toNode":"cf25e42dd21ad643","toSide":"right"},
+		{"id":"41dd15a6f7647e5a","fromNode":"cf25e42dd21ad643","fromSide":"left","toNode":"7a74904f1edd3731","toSide":"right"},
+		{"id":"51274433aac2db14","fromNode":"7460c5691a00dc0f","fromSide":"left","toNode":"51f3568c5f6a8cb0","toSide":"left"},
+		{"id":"cb7f8b44a48869cb","fromNode":"7a74904f1edd3731","fromSide":"left","toNode":"8491f7ff5a4df4c3","toSide":"left"},
+		{"id":"2e126c6cc7710ef0","fromNode":"8491f7ff5a4df4c3","fromSide":"right","toNode":"891d76d887376893","toSide":"right"},
+		{"id":"feedeba58e6f7b9c","fromNode":"891d76d887376893","fromSide":"left","toNode":"11ead4acaab83420","toSide":"right"},
+		{"id":"72c7eda12f5d8202","fromNode":"11ead4acaab83420","fromSide":"left","toNode":"74e6f73629a5caae","toSide":"left"},
+		{"id":"46f5d91361774d43","fromNode":"74e6f73629a5caae","fromSide":"right","toNode":"76499ab38e5171e8","toSide":"left"},
+		{"id":"e2a4bf52e4c4ae32","fromNode":"76499ab38e5171e8","fromSide":"right","toNode":"eb7cb78b8664c5c5","toSide":"right"}
+	]
+}

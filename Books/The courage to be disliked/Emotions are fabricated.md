@@ -3,7 +3,6 @@ Reference:
   - The courage to be disliked
 Created: 2024-03-18
 tags:
-  - raw
   - psychology
   - adlerian_psychology
 ---
@@ -20,6 +19,12 @@ tags:
 * We do not suffer from the shock of the experience (Trauma) but instead we weave them out however they suit out purpose.
 	* The meaning we give our past experiences determines our self being.]
 	* Trauma is fabricated as an excuse to out goals, goals that are created because of the past experience but can be changed with minimal effort.
+
+##### Dislike
+* People are extremely selfish creatures capable of finding any number of flaws and shortcomings in others whenever the mood strikes them.
+* You don't dislike the person X because they have a certain flaw that is unbearable to you. 
+	* You dislike them because you want to avoid an interpersonal relationship with X.
+* A man with perfect character could come along and one would have no difficulty in digging up some reason to dislike him.
 
 *This is true with every emotion*
 Just like a weapon inventory from a game, **we are always choosing** when, where and on whom to use these emotion.

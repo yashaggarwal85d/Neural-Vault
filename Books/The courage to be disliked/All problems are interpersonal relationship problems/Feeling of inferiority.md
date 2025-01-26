@@ -3,24 +3,25 @@ Reference:
   - The courage to be disliked
 Created: 2024-03-21
 tags:
-  - raw
+  - psychology
+  - adlerian_psychology
 ---
 # Idea
 
 ##### Feeling of inferiority
-* Feeling of inferiority is not objective its subjective.
+* Feeling of inferiority is <mark style="background: #CACFD9A6;">not objective its subjective.</mark>
 	* The good thing about subjectivity is that you have the power to change that. 
 	* Its your decision to view it as inferior or just another trivial thing that doesn't really matter.
 * There is nothing wrong in having this feeling.
-	* It might become a fuel for growth and development.
+	* It might become a <mark style="background: #BBFABBA6;">fuel for growth and development.</mark>
 	* We all are in pursuit of superiority since we are born, and this feeling can help us enter into the condition of wanting to improve.
 		* To get rid of this feeling people push themselves harder everyday, one more step, just a little better...
 
 ##### Inferiority complex
-* Having a feeling that "I am not good enough anyway".
+* Having a feeling that "<mark style="background: #FF5582A6;">I am not good enough anyway</mark>".
 * Complex refers to an abnormal mental state made up of a complicated group of emotions and ideas.
 * Its a completely different approach than the feeling of inferiority.
-	* It shows a destructive mindset.
+	* It shows a **destructive mindset**.
 	* No prospect of future improvements.
 	* Consistent feeling of being inferior and helpless.
 * Its scary for them to even take one step forward.
@@ -30,7 +31,8 @@ tags:
 # Examples
 
  * My colour is darker than the rest of the people, I have a feeling of inferiority.
-	* The issue here is not the darker colour but the meaning that I give it, its completely subjective.
+	* The issue here is not the darker colour but the meaning that I give it
+		* its completely subjective.
 	* Some people might have the same subjective opinion that having a darker colour is bad or inferior but at the end of the day its a subjective option and has nothing to do with the objectivity of the matter.
 	* Maybe having this feeling will lead you to have a better skin care routine and end up with a very good skin that you wouldn't been able to achieve without this feeling!
 * Having a mindset that My skin is dark, so I can never look good.
@@ -41,3 +43,5 @@ tags:
 # Similars
 
 [[Loneliness]]
+[[Bragging]]
+[[Competition]]

@@ -5,23 +5,29 @@ Reference:
   - kurzgesagt
 Created: 2024-03-21
 tags:
-  - raw
-  - philosophy
+  - psychology
 ---
 # Idea
 
-* Loneliness is having other people and society and community around you, and having a deep sense of being excluded from them.
-	* Its a misconception that loneliness happens to people that are introverts or have social anxiety.
-	* Loneliness is purely subjective and individual experience.
-	* Its like, hunger is desire for food and loneliness is desire for social needs.
-	* Its an interpersonal relationship problem
-* How to not be lonely
-	* Accept that its completely fine, its completely normal to feel that way.
-		* Literally everyone in some point in their life feels lonely, its a universal human experience
-	* Try not taking things negatively.
-	* Start trusting people
-	* Look for and create opportunities to socialise
-	* Start liking yourself, you are an amazing person and everybody would love to be around you.
+Loneliness, in essence, entails being surrounded by others, society, and community, yet <mark style="background: #CACFD9A6;">feeling profoundly excluded</mark> from them.
 
-# Similars
+- **Misconceptions about Loneliness:**    
+    - Contrary to common belief, loneliness is not exclusive to introverts or individuals with social anxiety.
+    - Loneliness is a deeply personal and subjective experience, not necessarily tied to one's personality type.
+    
+- **Analogy to Hunger:**
+    - Much like hunger is the body's craving for food, loneliness is the yearning for social connection and fulfilment.
 
+* Loneliness often stems from difficulties in forming and maintaining meaningful connections with others.
+
+- **Strategies to Overcome Loneliness:**
+    - **Acceptance:**
+        - <mark style="background: #ABF7F7A6;">Acknowledge that feeling lonely is a natural and normal aspect of the human experience.</mark>
+        - Recognise that virtually everyone, at some point in their lives, grapples with feelings of loneliness.
+    - **Positive Outlook:**
+        - Reframe loneliness as an opportunity for growth rather than a negative reflection of oneself.
+    - **Building Trust:**
+        - Work on trusting others and being open to forming new connections.
+        - Actively seek out opportunities to socialise and engage with others.
+    - **Self-Appreciation:**
+        - Cultivate self-love and appreciation, <mark style="background: #BBFABBA6;">recognising your own worth and the value you bring to relationships</mark>.

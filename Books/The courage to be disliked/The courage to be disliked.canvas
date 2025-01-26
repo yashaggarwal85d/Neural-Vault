@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"7e1a14d0badd7790","type":"file","file":"Books/The courage to be disliked/Aetiology vs Teleology.md","x":-2810,"y":1573,"width":360,"height":65,"color":"2"},
+		{"id":"b8fe3930c2d7ff01","type":"text","text":"![image](https://miro.medium.com/v2/resize:fit:1200/1*m7Ef6BCO0Ye7H2wLhfQBSg.jpeg)","x":-3217,"y":1453,"width":249,"height":305},
+		{"id":"3f08f2c7b226fe46","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Loneliness.md","x":-3660,"y":1579,"width":200,"height":50,"color":"3"},
+		{"id":"945184f7c047ea1f","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Confidence in others.md","x":-3940,"y":1758,"width":340,"height":55,"color":"3"},
+		{"id":"e19e5cf3e6c70c7f","type":"file","file":"Books/The courage to be disliked/Self acceptance.md","x":-3540,"y":1758,"width":280,"height":55,"color":"3"},
+		{"id":"3392b9cb632a1428","type":"file","file":"Books/The courage to be disliked/The world is simple.md","x":-3261,"y":1340,"width":337,"height":50,"color":"5"},
+		{"id":"914e7e59661325af","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Separate yourself from other people.md","x":-3363,"y":1880,"width":542,"height":50,"color":"1"},
+		{"id":"43ced3933d1c3972","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Feeling of inferiority.md","x":-2320,"y":1705,"width":346,"height":50,"color":"2"},
+		{"id":"f838a4c81cf5e893","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Competition.md","x":-2410,"y":1880,"width":251,"height":50,"color":"2"},
+		{"id":"f14b50da3c77dccb","type":"file","file":"Books/The courage to be disliked/All problems are interpersonal relationship problems/Bragging.md","x":-2090,"y":1880,"width":195,"height":50,"color":"2"},
+		{"id":"5165548dd6e7e9b7","type":"file","file":"Books/The courage to be disliked/People always choose not to change.md","x":-2905,"y":2000,"width":550,"height":50,"color":"6"},
+		{"id":"d58eb1965e5088d2","type":"file","file":"Books/The courage to be disliked/Emotions are fabricated.md","x":-3085,"y":2200,"width":395,"height":50,"color":"6"},
+		{"id":"b000473f7fe04e48","type":"file","file":"Books/The courage to be disliked/Hidden agenda behind emotions.md","x":-2600,"y":2200,"width":490,"height":50,"color":"6"},
+		{"id":"46eaa5a5fb7b711b","type":"file","file":"Books/The courage to be disliked/Power struggle.md","x":-2497,"y":2320,"width":285,"height":50,"color":"6"},
+		{"id":"f4840b36d3808534","type":"file","file":"Books/The courage to be disliked/Why do we hate ourselves.md","x":-2830,"y":1700,"width":400,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"40b5ccef8fa520a4","fromNode":"5165548dd6e7e9b7","fromSide":"bottom","toNode":"d58eb1965e5088d2","toSide":"top"},
+		{"id":"2177ac96393add11","fromNode":"7e1a14d0badd7790","fromSide":"bottom","toNode":"f4840b36d3808534","toSide":"top"},
+		{"id":"b2e110c912099a78","fromNode":"f4840b36d3808534","fromSide":"bottom","toNode":"5165548dd6e7e9b7","toSide":"top"},
+		{"id":"cea7c82c1961f139","fromNode":"5165548dd6e7e9b7","fromSide":"bottom","toNode":"b000473f7fe04e48","toSide":"top"},
+		{"id":"a7ff690a59139254","fromNode":"d58eb1965e5088d2","fromSide":"right","toNode":"b000473f7fe04e48","toSide":"left"},
+		{"id":"546eec8d9d6e3289","fromNode":"43ced3933d1c3972","fromSide":"bottom","toNode":"f14b50da3c77dccb","toSide":"top"},
+		{"id":"329363c7dcfc2830","fromNode":"3f08f2c7b226fe46","fromSide":"bottom","toNode":"e19e5cf3e6c70c7f","toSide":"top"},
+		{"id":"a5a51022029871ef","fromNode":"43ced3933d1c3972","fromSide":"bottom","toNode":"f838a4c81cf5e893","toSide":"top"},
+		{"id":"d8ce5734ef63c4f8","fromNode":"3f08f2c7b226fe46","fromSide":"bottom","toNode":"945184f7c047ea1f","toSide":"top"},
+		{"id":"a03d042c181f332c","fromNode":"b000473f7fe04e48","fromSide":"bottom","toNode":"46eaa5a5fb7b711b","toSide":"top"},
+		{"id":"879fe22002299efe","fromNode":"b8fe3930c2d7ff01","fromSide":"right","toNode":"7e1a14d0badd7790","toSide":"left"},
+		{"id":"ed5985b98ea4a81f","fromNode":"b8fe3930c2d7ff01","fromSide":"bottom","toNode":"914e7e59661325af","toSide":"top"},
+		{"id":"7b6434f94a942bd7","fromNode":"b8fe3930c2d7ff01","fromSide":"left","toNode":"3f08f2c7b226fe46","toSide":"right"},
+		{"id":"85081bfddece1d18","fromNode":"f4840b36d3808534","fromSide":"right","toNode":"43ced3933d1c3972","toSide":"left"},
+		{"id":"23306b74642ed88d","fromNode":"b8fe3930c2d7ff01","fromSide":"top","toNode":"3392b9cb632a1428","toSide":"bottom"}
+	]
+}

@@ -6,6 +6,7 @@
     "Similar": "date",
     "Created": "date",
     "Reference": "multitext",
-    "Working": "multitext"
+    "Working": "multitext",
+    "Tech stack": "multitext"
   }
 }

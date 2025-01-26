@@ -15,11 +15,19 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Misc",
-      "template": "Templates/Star doc template.md"
+      "folder": "Star document",
+      "template": "Templates/PEARL doc template.md"
     },
     {
       "folder": "Books",
+      "template": "Templates/Atomic note template.md"
+    },
+    {
+      "folder": "Internet",
+      "template": "Templates/Atomic note template.md"
+    },
+    {
+      "folder": "Misc",
       "template": "Templates/Atomic note template.md"
     }
   ],
@@ -30,7 +38,7 @@
   ],
   "startup_templates": [
     "Templates/Atomic note template.md",
-    "Templates/Star doc template.md"
+    "Templates/PEARL doc template.md"
   ],
   "enable_ribbon_icon": true
 }
