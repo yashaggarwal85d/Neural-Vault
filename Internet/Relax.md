@@ -3,7 +3,6 @@ Reference:
   - Charisma on Command
 Created: 2024-03-21
 tags:
-  - Tommy_Shelby
   - Personality
 ---
 # Idea

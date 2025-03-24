@@ -4,7 +4,6 @@ Reference:
 Created: 2024-04-22
 tags:
   - Personality
-  - Ryan_Gosling
 ---
 # Idea
 

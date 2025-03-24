@@ -4,7 +4,6 @@ Reference:
 Created: 2024-03-15
 tags:
   - law_of_attraction
-  - sleep
   - philosophy
 ---
 # Idea

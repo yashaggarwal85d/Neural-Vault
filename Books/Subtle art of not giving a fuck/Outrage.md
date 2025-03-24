@@ -4,7 +4,6 @@ Reference:
 Created: 2024-05-10
 tags:
   - psychology
-  - Personality
 ---
 # Idea
 

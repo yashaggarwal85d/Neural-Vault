@@ -4,7 +4,6 @@ Reference:
 Created: 2024-04-18
 tags:
   - Personality
-  - Keanu
 ---
 # Idea
 

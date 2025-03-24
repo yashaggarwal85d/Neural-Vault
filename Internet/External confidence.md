@@ -4,7 +4,6 @@ Reference:
 Created: 2024-04-23
 tags:
   - Personality
-  - Don_Draper
 ---
 # Idea
 

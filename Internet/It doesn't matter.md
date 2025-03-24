@@ -3,7 +3,6 @@ Reference:
   - Charisma on Command
 Created: 2024-04-22
 tags:
-  - Ryan_Gosling
   - Personality
 ---
 # Idea

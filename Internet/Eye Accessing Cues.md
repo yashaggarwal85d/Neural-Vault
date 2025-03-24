@@ -3,7 +3,6 @@ Reference:
   - Charisma on Command
 Created: 2024-04-18
 tags:
-  - Keanu
   - Personality
 ---
 # Idea

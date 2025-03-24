@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e17e0bd8ecf6f0d2",
+            "id": "5ecc4486d651f2ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Rich Dad Poor Dad/Money.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Money"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -42,7 +37,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -54,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "game",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Rich Dad Poor Dad/Money.md",
+                "file": "Misc/Inner engineering/Desires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Money"
+              "title": "Backlinks for Desires"
             }
           },
           {
@@ -114,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Rich Dad Poor Dad/Money.md",
+                "file": "Misc/Inner engineering/Desires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Money"
+              "title": "Outgoing links from Desires"
             }
           },
           {
@@ -129,7 +125,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -141,17 +139,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Rich Dad Poor Dad/Money.md"
+                "file": "Books/The Secret/Beginner steps to law of attraction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Money"
+              "title": "Outline of Beginner steps to law of attraction"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 469.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,57 +166,58 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "dada428dfbba8d71",
+  "active": "5ecc4486d651f2ed",
   "lastOpenFiles": [
-    "Internet/A monster.md",
-    "Points to cover in detail.md",
-    "zassets/Screenshot 2024-06-24 at 8.53.11 PM.png",
-    "Academics/Web3.md",
-    "Routine.md",
-    "Academics/Untitled",
-    "Academics/Coding Fundamentals.md",
-    "Misc/Inner engineering/Peace.md",
-    "Misc/Inner engineering/Karma.md",
-    "Misc/Inner engineering/Layers of us.md",
-    "Misc/Inner engineering/Desires.md",
-    "Internet/The Dunning-Kruger Effect.md",
-    "Misc/Inner engineering",
-    "Internet/State breaking questions.md",
-    "Internet/Trash into resources.md",
-    "Internet/Be a predator.md",
-    "Internet/Relax.md",
-    "Internet/How to speak so that people want to listen.md",
-    "Internet/Success and Luck.md",
-    "Internet/FORD.md",
-    "Internet/Office politics.md",
+    "Books/The Secret/Actions should reflect the thinking.md",
+    "Books/The Secret/Thought before sleep.md",
+    "Books/The courage to be disliked/The courage to be disliked.canvas",
+    "Books/The Secret/The Secret.canvas",
+    "Books/Subtle art of not giving a fuck/Subtle art.canvas",
+    "Star document/DM-IO.md",
+    "Star document/Program management.md",
+    "Star document/Reporting Automation.md",
+    "Star document/Generic Simulation.md",
+    "Star document/DevOps in demand management.md",
+    "Star document/RP Simulation.md",
+    "Star document/Fabric.md",
+    "Star document/Texas Insturments.canvas",
+    "Star document/Tech ladder application.md",
     "Internet/Procastination.md",
-    "Internet/Be watchful.md",
-    "Internet/Wu Wei.md",
-    "Internet/Letting Go.md",
-    "Templates/Atomic note template.md",
-    "Templates/PEARL doc template.md",
-    "zassets/Screenshot 2024-06-23 at 8.45.35 PM.png",
-    "zassets/Screenshot 2024-06-24 at 8.43.57 PM.png",
-    "zassets/Screenshot 2024-06-24 at 8.41.29 PM.png",
-    "zassets/Screenshot 2024-06-23 at 8.47.11 PM.png",
+    "Books/Subtle art of not giving a fuck/Outrage.md",
+    "Internet/Relax.md",
+    "Internet/Make conversations good for them as well.md",
+    "Internet/It doesn't matter.md",
+    "Internet/Have fun in conversations.md",
+    "Internet/Taking complements.md",
+    "Internet/Hand gestures.md",
+    "Internet/Eye Accessing Cues.md",
+    "Books/The courage to be disliked/Aetiology vs Teleology.md",
+    "Internet/External confidence.md",
+    "Books/48 Laws of power/Win through actions, never through argument.md",
+    "Books/How to talk to anyone/Small talks/Never the naked “thank you”.md",
+    "Books/How to talk to anyone/Small talks/Helping tongue.md",
+    "Books/How to talk to anyone/Don’t slobber.md",
+    "Books/How to talk to anyone/Safe heavens.md",
     "zassets/ir.gif",
-    "zassets/Screenshot 2024-06-23 at 4.17.55 PM.png",
-    "Books/Rich Dad Poor Dad/Incomes.md",
-    "zassets/Screenshot 2024-06-23 at 4.15.45 PM.png",
+    "zassets/Screenshot 2025-03-04 at 7.10.12 PM.png",
+    "zassets/Screenshot 2025-03-04 at 6.00.40 PM.png",
+    "zassets/e5294bc0021e8d0ec39e2faf823675b0.jpg",
+    "zassets/Screenshot 2025-02-28 at 11.34.05 PM.png",
+    "zassets/40bb7be5f7b8490e4be182ea9fd71b85.jpg",
+    "zassets/ab97ec3199209ed0b94ecaa86f938442.jpg",
+    "zassets/Screenshot 2025-02-28 at 11.13.24 PM.png",
+    "zassets/Screenshot 2025-02-26 at 4.39.30 PM.png",
+    "zassets/Screenshot 2025-02-25 at 7.43.06 PM.png",
+    "zassets/Pasted image 20250221152012.png.sb-431d5295-8cQETz",
+    "zassets/Pasted image 20250219223558.png.sb-431d5295-X3fgGc",
+    "Untitled",
+    "Books/48 Laws of power",
+    "Chats",
+    "Academics/Untitled",
+    "Misc/Inner engineering",
     "Books/Rich Dad Poor Dad",
-    "zassets/Screenshot 2024-06-19 at 7.37.06 PM.png",
-    "zassets/Screenshot 2024-06-19 at 7.36.13 PM.png",
     "zassets",
     "Books/How to talk to anyone/Small talks",
-    "Books/How to talk to anyone/Praising techniques",
-    "Books/How to win friends and influence people/Conditioning",
-    "Books/How to win friends and influence people/Argument",
-    "Chris Dixon - Read Write Own_ Building the Next Era of the Internet-Random House (2024).epub",
-    "Internet/Untitled",
-    "Books/The Secret/The Secret.canvas",
-    "Books/The courage to be disliked/The courage to be disliked.canvas",
-    "Books/Subtle art of not giving a fuck/Subtle art.canvas",
-    "Star document/Texas Insturments.canvas",
     "Untitled 1.canvas"
   ]
 }

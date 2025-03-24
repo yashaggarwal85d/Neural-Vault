@@ -3,7 +3,6 @@ Reference:
   - YouTube
 Created: 2024-06-30
 tags:
-  - raw
   - psychology
 ---
 # Idea
