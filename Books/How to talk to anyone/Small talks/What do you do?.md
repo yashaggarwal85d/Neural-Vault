@@ -7,7 +7,7 @@ tags:
 ---
 # Idea
 
-* Never ask this plain statement “What do you do?”. 
+* <mark style="background: #FF5582A6;">Never ask this plain statement</mark> “What do you do?”. 
 * This is very common and have several disadvantages, it label you as-
 	- A ruthless networker
 	- Gold digger
@@ -18,3 +18,4 @@ tags:
 
 # Similars
 
+[[Spotlight]]

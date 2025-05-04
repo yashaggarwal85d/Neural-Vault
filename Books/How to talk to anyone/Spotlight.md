@@ -9,11 +9,10 @@ tags:
 
 * The **spotlight of the conversation should never be on you** 
 * Keep the topics of the conversation on them. It have 2 advantages -
-	- You will come out as a good listener
-	- Your side of the story is still a mystery, and mystery induces attractiveness.
+	- You will come out as a **good listener**
+	- Your side of the story is still a **mystery**, and mystery induces attractiveness.
 - <mark style="background: #FFB86CA6;">To be interesting, be interested</mark>
 - The longer you keep the spotlight on them, the more interesting they will find you.
-	- This is a characteristic of a true confident person.
 * Do not think about yourself or how are you coming as 
 	* <mark style="background: #ABF7F7A6;">just focus on the other person</mark>
 	* look at their reactions and then plan your next moves accordingly.
@@ -25,5 +24,4 @@ tags:
 # Examples
 
 In a chess game if you just focus on yourself, you will most certainly lose, you need to keep focus on the other player
-# Similars
 

@@ -11,7 +11,7 @@ tags:
 	* They are lethal psychological weapons.
 * Eye contact is very advantageous in many situations like romance and business.
 	* <mark style="background: #D2B3FFA6;">Maintaining eye contact projects confidence and assertiveness</mark>. 
-		* It builds up the connection between you and the recipient. 
+		* It <mark style="background: #FFB86CA6;">builds up the connection</mark> between you and the recipient. 
 		* It is important for persuasion and social bonding.
 	* When you builds up a good connection between you and the other person using eye contact, you are now capable of non verbal communication with them.
 * Maintaining strong eye contact also gives an **impression of being intelligent and abstract thinker.**
@@ -23,3 +23,4 @@ tags:
 
 # Similars
 
+[[Seductive eyes]]

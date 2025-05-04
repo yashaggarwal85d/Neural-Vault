@@ -17,10 +17,8 @@ tags:
     
 - Hello Old friend
 	- When meeting someone,
-		- If you imagine that they are an old friend of yours and by some miracle you two meet again
+		- If you<mark style="background: #FFB86CA6;"> imagine that they are an old friend of yours</mark> and by some miracle you two meet again
 			- This feeling will effect your whole body language and your behaviour
 		- This works on the basis of **self-fulfilling prophecy**
 			- <mark style="background: #ADCCFFA6;">If you act as you know and like them, you really begin to like them</mark>.
-
-# Similars
 

@@ -9,8 +9,9 @@ tags:
 
 * The word “We” foster togetherness.
 * It makes the **listener feel connected.** 
-* It subliminally hints that you are already friends. 
+* It subliminally <mark style="background: #FFB86CA6;">hints that you are already friends</mark>. 
 * We, us, our - try to use these magic words as often as you can.
 
 # Similars
 
+[[Its our thing]]

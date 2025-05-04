@@ -10,9 +10,10 @@ tags:
 * <mark style="background: #FFB86CA6;">Ignore bloopers around you. </mark>
 	* Truly successful people never say “Whoops” or “Uh oh” or any other exclamation to bloopers. 
 	* They simply don’t notice their comrade’s minor slips, spills, fumbles and farts.
-* Let them suffer in silence
-	* be oblivious of their small coughs and hiccups. 
-* Don’t be oblivious to major bloopers like consistent loud rash coughs or consistent hiccups, should ask them if they are fine.
+* <mark style="background: #ADCCFFA6;">Let them suffer in silence</mark>
+	* Be oblivious of their small coughs and hiccups. 
+* <mark style="background: #FF5582A6;">Don’t be oblivious to major bloopers</mark> like consistent loud rash coughs or consistent hiccups, should ask them if they are fine.
 
 # Similars
 
+[[Safe heavens]]

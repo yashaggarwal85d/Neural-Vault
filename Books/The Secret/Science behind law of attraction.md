@@ -22,7 +22,3 @@ tags:
 	    - This transmission creates our life and the world around us.
 	- The things you desire also vibrate at a frequency
 		- Matching that frequency will attract them toward you.
-
-# External Reference
-
-![Video](https://www.youtube.com/watch?v=_M14s4luSxM&list=PLTcHS3I9NgjEhGS-H2x-iv9JhL7biZ9nv&index=30&ab_channel=IgnitetheIntellect)

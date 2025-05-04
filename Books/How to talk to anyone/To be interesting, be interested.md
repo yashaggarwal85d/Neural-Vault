@@ -32,3 +32,5 @@ tags:
 **If you want enemies, excel your friends but if you want friends, let them excel you.**
 # Similars
 
+[[Spotlight]]
+

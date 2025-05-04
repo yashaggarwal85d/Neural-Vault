@@ -8,7 +8,9 @@ tags:
 # Idea
 
 * While talking to an employee of a store or a restaurant or a accountant or clerk or a teacher. 
-	* Tell them that their boss is an intelligent one to hire them. 
-	* **This induces the principle of authority**, tell them that they are gonna praise about them to their boss and sometimes do that.
+	* Tell them that <mark style="background: #FFB86CA6;">their boss is an intelligent one to hire them</mark>. 
+	* This induces the <mark style="background: #BBFABBA6;">principle of authority</mark>
+		* Tell them that they are gonna praise about them to their boss and sometimes do that.
 # Similars
 
+[[Criticism and Appreciation]]

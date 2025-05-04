@@ -8,7 +8,7 @@ tags:
 # Idea
 
 * When someone persists on questioning you an unwelcoming subject
-	* **simply repeat your original response.**
+	* <mark style="background: #FFB86CA6;">Simply repeat your original response</mark>.
 	* Use the precise same words, the precise same tone
 # Examples
 
@@ -18,5 +18,3 @@ tags:
 - You reply - “Just never found the one”.
 - They says - “but there are so may girls, you must not have tried enough”
 - Reply - “Just never found the one”.
-
-# Similars

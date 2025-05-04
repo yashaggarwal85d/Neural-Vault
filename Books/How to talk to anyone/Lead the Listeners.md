@@ -8,10 +8,10 @@ tags:
 # Idea
 
 * Be the first to recognise anything you agree with.
-* Be the first to take a stand.
-* Be the first to applaud publicly the person you agree with. This shows -
-	1. The leadership qualities that you possess
-	2. Confident and not afraid of the crowd
+* Be the first to <mark style="background: #FFB86CA6;">take a stand</mark>.
+* Be the first to <mark style="background: #FFB8EBA6;">appreciate</mark>
+* Be the first to <mark style="background: #BBFABBA6;">applaud publicly</mark> the person you agree with. This shows -
+	1. The **leadership** qualities that you possess
+	2. **Confident** and not afraid of the crowd
 	3. You also drops an impression on the speaker.
-# Similars
 

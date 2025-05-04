@@ -18,5 +18,5 @@ tags:
 	1. You don’t want to interrogate them on the request
 	2. Give them the time to think and get back to you
 	3. You don’t want to embarrass them is they fail to comply the request
-# Similars
+
 

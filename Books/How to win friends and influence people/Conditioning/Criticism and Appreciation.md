@@ -18,7 +18,7 @@ tags:
 	- <mark style="background: #D2B3FFA6;">As much as we thirst for approval, we dread for condemnation.</mark>
 	- This trick works one everyone, from children to adults. 
 		- If you scold a child for a mistake it is very much probable that it will get repeated, you will get mad again and with time the affect of the scolding will die down, now your scolding does not affect them.
-	- Praising on the good things have the opposite affect
+	- <mark style="background: #BBFABBA6;">Praising on the good things</mark> have the opposite affect
 		- The thirst to get the good words out of your mouth again will raise the level of this ability each time and the good deeds will just increase exponentially.
 	- Give honest and sincere appreciation, never criticise. Be hearty in your appreciation and lavish in your praise people will cherish your words and treasure them. This is **positive conditioning.**
 	- Kindness, friendliness and appreciation can make people change their minds more rapidly than all the bluster and storming in the world.
@@ -49,3 +49,4 @@ tags:
 
 # Similars
 
+[[Flattery]]

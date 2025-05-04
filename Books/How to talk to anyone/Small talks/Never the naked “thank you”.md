@@ -7,7 +7,7 @@ tags:
 ---
 # Idea
 
-* Never let the word stand alone, always follow it with for.
+* Never let the word stand alone, always <mark style="background: #BBFABBA6;">follow it with for</mark>.
 # Examples
 
 - Thank you for coming
@@ -15,4 +15,3 @@ tags:
 - Thank you for your suggestion
 - Thanks for the kind words.
 - Thank you for that good review.
-# Similars

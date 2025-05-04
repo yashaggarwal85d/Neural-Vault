@@ -9,9 +9,7 @@ tags:
 
 * <mark style="background: #D2B3FFA6;">Any two people have invisible scorecard hovering above their heads.</mark> 
 	* The one with lower scorecard pays deference to other. 
-		* Whenever you do someone wrong, even a little bit, you lose points
-		* If you do a favour you gains points. 
-	* You have to keep this scorecard balanced. 
+		* Whenever you do someone wrong, even a little bit, **you lose points**
+		* If you do a favour **you gains points.** 
+	* You have to keep this scorecard <mark style="background: #FF5582A6;">balanced</mark>. 
 	* **If the difference comes out to be too large, relationship over**.
-# Similars
-

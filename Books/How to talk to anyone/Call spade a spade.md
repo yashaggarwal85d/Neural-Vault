@@ -9,7 +9,8 @@ tags:
 
 * Don’t be afraid to use words that maybe doesn’t sound polite. 
 	* **Winners uses these words boldly**.
-* Don’t be too polite and find a way around of saying these words, calling penis “ding dong” doesn’t make it sound better.
+* <mark style="background: #FF5582A6;">Don’t be too polite and find a way around of saying these words</mark>
+	* Calling penis “ding dong” doesn’t make it sound better.
 # Examples
 
 - Call boobs boobs or breasts or chest
@@ -17,3 +18,5 @@ tags:
 
 # Similars
 
+[[Be stubborn]]
+[[Whats in it for Me&You]]

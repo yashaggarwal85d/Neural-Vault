@@ -20,3 +20,5 @@ tags:
 
 # Similars
 
+[[We word]]
+[[Its our thing]]

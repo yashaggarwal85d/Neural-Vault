@@ -8,8 +8,8 @@ tags:
 # Idea
 
 * When you meet someone special(maybe a past classmate) or famous(maybe a TV actor or insta celeb)
-	* Stay cool, be calm, talk to them but hold your horses
+	* <mark style="background: #FFB86CA6;">Stay cool, be calm</mark>, talk to them but **hold your horses**
 		* Control your excitement and give them space. 
-	* They are a normal human being at the end of the day, they are not that special or unique as much as you think.
+	* At the end of the day, <mark style="background: #D2B3FFA6;">they are a normal human being</mark>
+		* They are not that special or unique as much as you think.
 * **If you are with someone in this situation, they will also appreciate your calmness and way of handling.**
-# Similars

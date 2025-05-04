@@ -9,7 +9,8 @@ tags:
 
 * While listening to someone talk, we often vocalise “uh huh” or “hmm”. 
 	* This becomes a habit and sometimes we just stops listening to the other person and do <mark style="background: #FF5582A6;">unconscious humming</mark>.
-* Don’t use “uhhms”, **employ empathisers**. Empathisers are simple, short and supportive sentences like -
+* Don’t use “uhhms”, **employ empathisers**. 
+* Empathisers are simple, short and supportive sentences like -
 	- I get that
 	- Ohh so thats what happened
 	- Thats really exciting
@@ -20,3 +21,4 @@ tags:
 
 # Similars
 
+[[Do not fidget]]

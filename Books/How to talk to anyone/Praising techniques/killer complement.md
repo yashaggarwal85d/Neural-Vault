@@ -7,9 +7,9 @@ tags:
 ---
 # Idea
 
-* A killer complement is commenting on some **very personal and specific quality** you spot in someone. 
+* A killer complement is commenting on some <mark style="background: #FFB86CA6;">very personal and specific quality</mark> you spot in someone. 
 * There are some rules for delivering killer complement -
-	- Use the technique in **private**, in group situations this could be embarrassing to the recipient and weird for others.
+	- Use the technique in <mark style="background: #FF5582A6;">private</mark>, in group situations this could be embarrassing to the recipient and weird for others.
 	- <mark style="background: #BBFABBA6;">Complement should be credible</mark>, they are gonna know if you lie
 	- Confer only **one killer complement per half a year on each recipient**.
 
@@ -21,3 +21,6 @@ tags:
 
 # Similars
 
+[[Appreciation]]
+[[Behind the back]]
+[[Undercover compliments]]

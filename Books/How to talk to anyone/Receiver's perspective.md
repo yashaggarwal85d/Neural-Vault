@@ -7,8 +7,9 @@ tags:
 ---
 # Idea
 
-* Whenever you tell someone anything, **put your emotions aside**, keep your receiver mental state and emotions in mind. 
+* Whenever you tell someone anything
+	* **Put your emotions aside**
+	* keep your receiver mental state and emotions in mind. 
 	* <mark style="background: #FFB86CA6;">Deliver it just like how the receiver will feel when they get the info. </mark>
 	* This will make you seem more empathic.
-# Similars
 

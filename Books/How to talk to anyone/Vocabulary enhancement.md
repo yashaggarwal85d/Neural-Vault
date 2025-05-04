@@ -7,7 +7,8 @@ tags:
 ---
 # Idea
 
-* **Drop the overworked words that everyone uses everyday,** words like good, pretty, nice, smart, bro etc.
+* **Drop the overworked words that everyone uses everyday** 
+	* Words like good, pretty, nice, smart, bro etc.
 * <mark style="background: #BBFABBA6;">Have a complex synonym for each of these common words</mark> and replace them with that, this technique have several advantages -
 	- People will think your english is better
 	- You are a **better communicator**
@@ -15,11 +16,12 @@ tags:
 	- Improves **attraction**
 * 50 common words makes the difference between a rich and an average vocabulary.
 
-# Similars
+# Examples
 
 - Instead of saying pretty, say elegant
-- replace wonderful with splendid
-- If you want to compliment someone that they are smart, don’t say “You are smart”, say “That was ingenious” or “You are clever” or “resourceful” or “remarkable”.
+- Replace wonderful with splendid
+- If you want to compliment someone that they are smart, don’t say “You are smart”
+	- Say “That was ingenious” or “You are clever” or “resourceful” or “remarkable”.
 
 # Reference
 

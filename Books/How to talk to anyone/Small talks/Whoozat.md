@@ -18,5 +18,3 @@ tags:
 		- There you have it, this is enough info to get a convo started.
 	- You can approach her and introduce yourself and tell her that your friend told you about her that she is from VIT. Then start talking about VIT and google
 
-# Similars
-
