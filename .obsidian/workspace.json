@@ -8,28 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d813787787e000f4",
+            "id": "eebf9f712168485f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Books/48 Laws of power/Use absence to increase respect and honour.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/Design a URL Shortener (TinyURL).md"
               },
-              "icon": "lucide-file",
-              "title": "Use absence to increase respect and honour"
-            }
-          },
-          {
-            "id": "6005253066db9cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "excalidraw-icon",
+              "title": "Design a URL Shortener (TinyURL)"
             }
           }
         ],
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 286.5
   },
   "right": {
     "id": "0ac62347d4815028",
@@ -173,16 +160,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d813787787e000f4",
+  "active": "eebf9f712168485f",
   "lastOpenFiles": [
+    "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
+    "redis-enterprise-prometheus.png",
+    "Excalidraw/Design a URL Shortener (TinyURL).md",
+    "Excalidraw/Drawing 2025-12-16 19.50.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-16 19.50.22.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-sd19.51.57.excalidraw.md",
+    "Draws/Untitled.md",
+    "Excalidraw",
+    "Star document/Generic Simulation.md",
+    "Star document/DevOps in demand management.md",
+    "Star document/Texas Insturments.canvas",
+    "Star document/Tech ladder application.md",
+    "Star document/RP Simulation.md",
+    "Star document/Reporting Automation.md",
+    "Star document/DM-IO.md",
+    "Star document/Program management.md",
+    "Draws",
+    "Archive",
+    "Switch Prep.md",
+    "zassets/Screenshot 2025-03-24 at 11.58.45 PM.png",
+    "Books/48 Laws of power/Use absence to increase respect and honour.md",
     "Books/How to talk to anyone/Small talks/Whatzat.md",
     "Books/How to talk to anyone/Small talks/Whoozat.md",
     "Books/How to talk to anyone/Small talks/Do the research.md",
@@ -194,26 +204,9 @@
     "Books/How to talk to anyone/Small talks/Empty their tanks.md",
     "Books/How to talk to anyone/To be interesting, be interested.md",
     "Books/How to talk to anyone/Spotlight.md",
-    "Books/How to talk to anyone/Smile.md",
-    "Books/How to talk to anyone/Fake smile.md",
-    "Books/How to talk to anyone/Be a copycat.md",
-    "Books/How to talk to anyone/Drop the uhhms.md",
-    "Books/How to talk to anyone/We word.md",
-    "Books/How to talk to anyone/Its our thing.md",
-    "Books/How to talk to anyone/Eye contact.md",
-    "Books/How to talk to anyone/Seductive eyes.md",
-    "Books/How to talk to anyone/New Acquaintance.md",
-    "Books/How to talk to anyone/Do not fidget.md",
-    "Books/How to talk to anyone/Encore.md",
-    "Books/How to talk to anyone/Vocabulary enhancement.md",
-    "Books/How to talk to anyone/Call spade a spade.md",
-    "Books/How to talk to anyone/Be stubborn.md",
-    "Books/How to talk to anyone/Whats in it for Me&You.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
-    "Screenshot 2025-03-24 at 11.58.45 PM.png",
-    "Books/The Secret/The Secret.canvas",
+    "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
-    "Star document/Texas Insturments.canvas",
     "zassets/ir.gif",
     "zassets/Screenshot 2025-03-04 at 7.10.12 PM.png",
     "zassets/Screenshot 2025-03-04 at 6.00.40 PM.png",
@@ -222,17 +215,13 @@
     "zassets/40bb7be5f7b8490e4be182ea9fd71b85.jpg",
     "zassets/ab97ec3199209ed0b94ecaa86f938442.jpg",
     "zassets/Screenshot 2025-02-28 at 11.13.24 PM.png",
-    "zassets/Screenshot 2025-02-26 at 4.39.30 PM.png",
     "zassets/Pasted image 20250221152012.png.sb-431d5295-8cQETz",
     "zassets/Pasted image 20250219223558.png.sb-431d5295-X3fgGc",
-    "Untitled",
     "Books/48 Laws of power",
     "Chats",
     "Academics/Untitled",
-    "Misc/Inner engineering",
-    "Books/Rich Dad Poor Dad",
-    "zassets",
-    "Books/How to talk to anyone/Small talks",
+    "Archive/Inner engineering",
+    "Archive/Rich Dad Poor Dad",
     "Untitled 1.canvas"
   ]
 }
