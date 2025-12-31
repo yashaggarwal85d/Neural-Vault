@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eebf9f712168485f",
+            "id": "af6a99f7ce2238aa",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a URL Shortener (TinyURL).md"
+                "file": "Excalidraw/Design a Pastebin.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a URL Shortener (TinyURL)"
+              "title": "Design a Pastebin"
             }
           }
         ],
@@ -170,11 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eebf9f712168485f",
+  "active": "af6a99f7ce2238aa",
   "lastOpenFiles": [
-    "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
-    "redis-enterprise-prometheus.png",
     "Excalidraw/Design a URL Shortener (TinyURL).md",
+    "Excalidraw/Design a Pastebin.md",
+    "Excalidraw/Untitled.md",
+    "redis-enterprise-prometheus.png",
+    "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
+    "Untitled.md",
     "Excalidraw/Drawing 2025-12-16 19.50.21.excalidraw.md",
     "Excalidraw/Drawing 2025-12-16 19.50.22.excalidraw.md",
     "Excalidraw/Drawing 2025-12-sd19.51.57.excalidraw.md",
@@ -202,8 +205,6 @@
     "Books/How to talk to anyone/Small talks/Helping tongue.md",
     "Books/How to talk to anyone/Small talks/Never the naked “thank you”.md",
     "Books/How to talk to anyone/Small talks/Empty their tanks.md",
-    "Books/How to talk to anyone/To be interesting, be interested.md",
-    "Books/How to talk to anyone/Spotlight.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
@@ -214,7 +215,6 @@
     "zassets/Screenshot 2025-02-28 at 11.34.05 PM.png",
     "zassets/40bb7be5f7b8490e4be182ea9fd71b85.jpg",
     "zassets/ab97ec3199209ed0b94ecaa86f938442.jpg",
-    "zassets/Screenshot 2025-02-28 at 11.13.24 PM.png",
     "zassets/Pasted image 20250221152012.png.sb-431d5295-8cQETz",
     "zassets/Pasted image 20250219223558.png.sb-431d5295-X3fgGc",
     "Books/48 Laws of power",
