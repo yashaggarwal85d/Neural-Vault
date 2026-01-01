@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af6a99f7ce2238aa",
+            "id": "d6bca406145e4feb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Pastebin.md"
+                "file": "Excalidraw/Design a Rate Limiter.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Pastebin"
+              "title": "Design a Rate Limiter"
             }
           }
         ],
@@ -170,10 +170,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "af6a99f7ce2238aa",
+  "active": "d6bca406145e4feb",
   "lastOpenFiles": [
     "Excalidraw/Design a URL Shortener (TinyURL).md",
     "Excalidraw/Design a Pastebin.md",
+    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Untitled.md",
     "redis-enterprise-prometheus.png",
     "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
@@ -204,7 +205,6 @@
     "Books/How to talk to anyone/Small talks/You.md",
     "Books/How to talk to anyone/Small talks/Helping tongue.md",
     "Books/How to talk to anyone/Small talks/Never the naked “thank you”.md",
-    "Books/How to talk to anyone/Small talks/Empty their tanks.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
