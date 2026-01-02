@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6bca406145e4feb",
+            "id": "3cd4cdfc299bd95c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Rate Limiter.md"
+                "file": "Excalidraw/Design a Distributed ID Generator (Snowflake).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Rate Limiter"
+              "title": "Design a Distributed ID Generator (Snowflake)"
             }
           }
         ],
@@ -170,11 +170,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6bca406145e4feb",
+  "active": "3cd4cdfc299bd95c",
   "lastOpenFiles": [
-    "Excalidraw/Design a URL Shortener (TinyURL).md",
     "Excalidraw/Design a Pastebin.md",
+    "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a Rate Limiter.md",
+    "Excalidraw/Design a URL Shortener (TinyURL).md",
+    "Star document/RP Simulation.md",
+    "Star document/Reporting Automation.md",
+    "Star document/DM-IO.md",
+    "Star document/Program management.md",
+    "Star document/Tech ladder application.md",
+    "Star document/Texas Insturments.canvas",
+    "Star document/DevOps in demand management.md",
+    "Star document/Generic Simulation.md",
     "Excalidraw/Untitled.md",
     "redis-enterprise-prometheus.png",
     "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
@@ -184,14 +193,6 @@
     "Excalidraw/Drawing 2025-12-sd19.51.57.excalidraw.md",
     "Draws/Untitled.md",
     "Excalidraw",
-    "Star document/Generic Simulation.md",
-    "Star document/DevOps in demand management.md",
-    "Star document/Texas Insturments.canvas",
-    "Star document/Tech ladder application.md",
-    "Star document/RP Simulation.md",
-    "Star document/Reporting Automation.md",
-    "Star document/DM-IO.md",
-    "Star document/Program management.md",
     "Draws",
     "Archive",
     "Switch Prep.md",
@@ -204,7 +205,6 @@
     "Books/How to talk to anyone/Small talks/Kill the quick Me-too.md",
     "Books/How to talk to anyone/Small talks/You.md",
     "Books/How to talk to anyone/Small talks/Helping tongue.md",
-    "Books/How to talk to anyone/Small talks/Never the naked “thank you”.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
