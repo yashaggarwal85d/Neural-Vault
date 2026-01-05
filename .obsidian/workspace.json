@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cd4cdfc299bd95c",
+            "id": "71af640ccfdad815",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Consistent Hashing Ring.md"
+                "file": "Excalidraw/Design a Key-Value Store (DynamoDB).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Consistent Hashing Ring"
+              "title": "Design a Key-Value Store (DynamoDB)"
             }
           }
         ],
@@ -170,14 +170,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dada428dfbba8d71",
+  "active": "71af640ccfdad815",
   "lastOpenFiles": [
-    "zassets/{6517ADA1-8291-473D-83D5-ECF54FB3C22A}.png",
-    "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a Consistent Hashing Ring.md",
-    "Excalidraw/Design a Pastebin.md",
-    "Excalidraw/Design a Rate Limiter.md",
+    "Excalidraw/Design a Key-Value Store (DynamoDB).md",
+    "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a URL Shortener (TinyURL).md",
+    "Excalidraw/Design a Rate Limiter.md",
+    "Excalidraw/Design a Pastebin.md",
+    "Excalidraw/switch.xlsx",
+    "zassets/{6517ADA1-8291-473D-83D5-ECF54FB3C22A}.png",
     "Star document/RP Simulation.md",
     "Star document/Reporting Automation.md",
     "Star document/DM-IO.md",
@@ -204,7 +206,6 @@
     "Books/How to talk to anyone/Small talks/Whoozat.md",
     "Books/How to talk to anyone/Small talks/Do the research.md",
     "Books/How to talk to anyone/Small talks/What do you do?.md",
-    "Books/How to talk to anyone/Small talks/Kill the quick Me-too.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
@@ -214,14 +215,12 @@
     "zassets/e5294bc0021e8d0ec39e2faf823675b0.jpg",
     "zassets/Screenshot 2025-02-28 at 11.34.05 PM.png",
     "zassets/40bb7be5f7b8490e4be182ea9fd71b85.jpg",
-    "zassets/ab97ec3199209ed0b94ecaa86f938442.jpg",
     "zassets/Pasted image 20250221152012.png.sb-431d5295-8cQETz",
     "zassets/Pasted image 20250219223558.png.sb-431d5295-X3fgGc",
     "Books/48 Laws of power",
     "Chats",
     "Academics/Untitled",
     "Archive/Inner engineering",
-    "Archive/Rich Dad Poor Dad",
     "Untitled 1.canvas"
   ]
 }
