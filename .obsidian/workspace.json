@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71af640ccfdad815",
+            "id": "99166fc9a64e50e6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Key-Value Store (DynamoDB).md"
+                "file": "Excalidraw/Design a Distributed Cache (Redis).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Key-Value Store (DynamoDB)"
+              "title": "Design a Distributed Cache (Redis)"
             }
           }
         ],
@@ -170,10 +170,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "71af640ccfdad815",
+  "active": "99166fc9a64e50e6",
   "lastOpenFiles": [
-    "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Key-Value Store (DynamoDB).md",
+    "Excalidraw/Design a Distributed Cache (Redis).md",
+    "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a URL Shortener (TinyURL).md",
     "Excalidraw/Design a Rate Limiter.md",
