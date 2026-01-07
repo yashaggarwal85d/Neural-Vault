@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99166fc9a64e50e6",
+            "id": "6654081b7b58a400",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Distributed Cache (Redis).md"
+                "file": "Excalidraw/Design a Notification Service.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Distributed Cache (Redis)"
+              "title": "Design a Notification Service"
             }
           }
         ],
@@ -170,14 +170,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "99166fc9a64e50e6",
+  "active": "6654081b7b58a400",
   "lastOpenFiles": [
+    "Excalidraw/Design a Notification Service.md",
+    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Key-Value Store (DynamoDB).md",
     "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a URL Shortener (TinyURL).md",
-    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Pastebin.md",
     "Excalidraw/switch.xlsx",
     "zassets/{6517ADA1-8291-473D-83D5-ECF54FB3C22A}.png",
@@ -206,7 +207,6 @@
     "Books/How to talk to anyone/Small talks/Whatzat.md",
     "Books/How to talk to anyone/Small talks/Whoozat.md",
     "Books/How to talk to anyone/Small talks/Do the research.md",
-    "Books/How to talk to anyone/Small talks/What do you do?.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
