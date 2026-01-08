@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6654081b7b58a400",
+            "id": "2f9872655f2bbdd5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Notification Service.md"
+                "file": "Excalidraw/Design a Distributed Job Scheduler (Cron).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Notification Service"
+              "title": "Design a Distributed Job Scheduler (Cron)"
             }
           }
         ],
@@ -170,11 +170,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6654081b7b58a400",
+  "active": "2f9872655f2bbdd5",
   "lastOpenFiles": [
     "Excalidraw/Design a Notification Service.md",
-    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Key-Value Store (DynamoDB).md",
+    "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
@@ -190,7 +192,6 @@
     "Star document/Texas Insturments.canvas",
     "Star document/DevOps in demand management.md",
     "Star document/Generic Simulation.md",
-    "Excalidraw/Untitled.md",
     "redis-enterprise-prometheus.png",
     "png-clipart-apache-cassandra-new-context-services-apache-spark-apache-http-server-apache-software-foundation-bigdata-company-logo.png",
     "Untitled.md",
@@ -206,7 +207,6 @@
     "Books/48 Laws of power/Use absence to increase respect and honour.md",
     "Books/How to talk to anyone/Small talks/Whatzat.md",
     "Books/How to talk to anyone/Small talks/Whoozat.md",
-    "Books/How to talk to anyone/Small talks/Do the research.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
