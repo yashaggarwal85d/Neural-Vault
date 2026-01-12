@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c66cd0734be8ea4",
+            "id": "280efcba51e6db6f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Distributed Message Queue (Kafka).md"
+                "file": "Excalidraw/Design a Distributed File System (S3).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Distributed Message Queue (Kafka)"
+              "title": "Design a Distributed File System (S3)"
             }
           }
         ],
@@ -170,16 +170,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c66cd0734be8ea4",
+  "active": "280efcba51e6db6f",
   "lastOpenFiles": [
+    "Excalidraw/Design a Key-Value Store (DynamoDB).md",
+    "Excalidraw/Design a Distributed File System (S3).md",
+    "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
     "Excalidraw/Design a Metrics Monitoring System.md",
     "Excalidraw/Design a Distributed Message Queue (Kafka).md",
-    "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
+    "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Notification Service.md",
-    "Excalidraw/Design a Key-Value Store (DynamoDB).md",
     "Excalidraw/Untitled.md",
     "Excalidraw/Design a Rate Limiter.md",
-    "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
     "Excalidraw/Design a URL Shortener (TinyURL).md",
@@ -206,7 +207,6 @@
     "Archive",
     "Switch Prep.md",
     "zassets/Screenshot 2025-03-24 at 11.58.45 PM.png",
-    "Books/48 Laws of power/Use absence to increase respect and honour.md",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
     "Books/Subtle art of not giving a fuck/Subtle art.canvas",
