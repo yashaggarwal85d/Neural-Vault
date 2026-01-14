@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "280efcba51e6db6f",
+            "id": "6ac00d90c2ff1ed9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design a Distributed File System (S3).md"
+                "file": "Excalidraw/Design Google Drive or Dropbox.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design a Distributed File System (S3)"
+              "title": "Design Google Drive or Dropbox"
             }
           }
         ],
@@ -170,13 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "280efcba51e6db6f",
+  "active": "6ac00d90c2ff1ed9",
   "lastOpenFiles": [
-    "Excalidraw/Design a Key-Value Store (DynamoDB).md",
-    "Excalidraw/Design a Distributed File System (S3).md",
-    "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
-    "Excalidraw/Design a Metrics Monitoring System.md",
     "Excalidraw/Design a Distributed Message Queue (Kafka).md",
+    "Excalidraw/Design Google Drive or Dropbox.md",
+    "Excalidraw/Design a Distributed File System (S3).md",
+    "Excalidraw/Design a Metrics Monitoring System.md",
+    "Excalidraw/Design a Key-Value Store (DynamoDB).md",
+    "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
     "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Notification Service.md",
     "Excalidraw/Untitled.md",
@@ -205,7 +206,6 @@
     "Excalidraw",
     "Draws",
     "Archive",
-    "Switch Prep.md",
     "zassets/Screenshot 2025-03-24 at 11.58.45 PM.png",
     "Books/The courage to be disliked/The courage to be disliked.canvas",
     "Archive/The Secret/The Secret.canvas",
