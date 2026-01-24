@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ac00d90c2ff1ed9",
+            "id": "819b1d603464ff66",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Design Google Drive or Dropbox.md"
+                "file": "Excalidraw/Design a web crawler system.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Design Google Drive or Dropbox"
+              "title": "Design a web crawler system"
             }
           }
         ],
@@ -170,21 +170,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ac00d90c2ff1ed9",
+  "active": "819b1d603464ff66",
   "lastOpenFiles": [
-    "Excalidraw/Design a Distributed Message Queue (Kafka).md",
-    "Excalidraw/Design Google Drive or Dropbox.md",
-    "Excalidraw/Design a Distributed File System (S3).md",
+    "Excalidraw/Design an autocomplete system.md",
+    "Excalidraw/Design a web crawler system.md",
     "Excalidraw/Design a Metrics Monitoring System.md",
+    "Excalidraw/Design a Distributed File System (S3).md",
+    "Excalidraw/Design a Distributed Message Queue (Kafka).md",
+    "Excalidraw/Design a URL Shortener (TinyURL).md",
+    "Excalidraw/Design Google Drive or Dropbox.md",
+    "Excalidraw/Design a Distributed Cache (Redis).md",
+    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Key-Value Store (DynamoDB).md",
     "Excalidraw/Design a Distributed Job Scheduler (Cron).md",
-    "Excalidraw/Design a Distributed Cache (Redis).md",
     "Excalidraw/Design a Notification Service.md",
     "Excalidraw/Untitled.md",
-    "Excalidraw/Design a Rate Limiter.md",
     "Excalidraw/Design a Consistent Hashing Ring.md",
     "Excalidraw/Design a Distributed ID Generator (Snowflake).md",
-    "Excalidraw/Design a URL Shortener (TinyURL).md",
     "Excalidraw/Design a Pastebin.md",
     "Excalidraw/switch.xlsx",
     "zassets/{6517ADA1-8291-473D-83D5-ECF54FB3C22A}.png",
@@ -201,8 +203,6 @@
     "Untitled.md",
     "Excalidraw/Drawing 2025-12-16 19.50.21.excalidraw.md",
     "Excalidraw/Drawing 2025-12-16 19.50.22.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-sd19.51.57.excalidraw.md",
-    "Draws/Untitled.md",
     "Excalidraw",
     "Draws",
     "Archive",
